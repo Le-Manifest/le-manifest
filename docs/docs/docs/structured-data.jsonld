@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "@id": "https://www.lemanifest.com/#organization",
+  "name": "Le Manifest",
+  "url": "https://www.lemanifest.com/",
+  "logo": "https://www.lemanifest.com/_downloads/217543c93a554c262056f9ae2d60e7de",
+  "issn": "3099-0149",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISNI",
+      "value": "000000052955336X"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "BnF ARK",
+      "value": "ark:/12148/cb48660576g"
+    }
+  ],
+  "sameAs": [
+    "https://www.lemanifest.com/",
+    "https://portal.issn.org/resource/ISSN/3099-0149",
+    "https://catalogue.bnf.fr/ark:/12148/cb48660576g",
+    "https://isni.org/isni/000000052955336X"
+  ]
+}
